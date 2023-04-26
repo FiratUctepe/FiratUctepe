@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fırat</h1>
 
-- 🌱 I’m currently learning **React,jQuery**
+- 🌱 I’m currently learning **React,jQuery,Kafka,Docker**
 
 - 📫 How to reach me **firat.uctepe1@gmail.com**
 
